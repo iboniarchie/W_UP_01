@@ -87,4 +87,8 @@ t.test(pushups~position,data=mydata)
 ```
 
 P-value is low. We have to reject the null hypothesis.There is a difference between the amount of pushups that a skill player does. Skill players on average can perform three times the amount that line players.    
-# Inferential  
+
+# Discussion and conclusion 
+
+Variable analysis was done examined variables given in order to help identitfy which helper file is needed. We used the Numerica~Cat file to help make since of this file. I copied and pasted the commands and changed the variables within the command. Conclusion from the results was to reject  the null hypotheseis. Meaning there was a major difference in the amount of pushups that the skill players performed than the line players.
+
