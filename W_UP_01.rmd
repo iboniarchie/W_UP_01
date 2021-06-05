@@ -66,6 +66,15 @@ The boxplot shows that skill players do more pushups than line players. In the s
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+# Numerical results
+
+```{r}
+favstats(pushups~position,data=mydata)
+```
+
+numerical results show that the average number of pushups done by a line player is 17 and the average number of pushups done by a skill player if 50  
+
+
 
 ## Inferential Results
 
